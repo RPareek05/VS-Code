@@ -7,6 +7,7 @@ dcl-s count3 int(5) inz(10);
 *inlr = *on;
 executeSQL();
 return;
+   
 //**********************
 dcl-proc executeSQL;
   
