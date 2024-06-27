@@ -7,3 +7,5 @@ dcl-s strCounter int(3);
 for strCounter = 1 to %len(%trim(inchar));
    dsply 'in the loop';
 end-for;
+
+dsply 'hello world';
