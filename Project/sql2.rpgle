@@ -9,3 +9,4 @@ for strCounter = 1 to %len(%trim(inchar));
 end-for;
 
 dsply 'hello world';
+dsply 'nothing here';
